@@ -30,9 +30,3 @@ distributed_logger/
   "message": "User login successful"
 }
 
-📦 Future Improvements
-Persist logs to file or database
-
-Add message acknowledgment and retry logic
-
-Visual dashboard for live log monitoring
